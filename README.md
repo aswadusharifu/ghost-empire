@@ -1,6 +1,13 @@
 # ghost-empire
 Funded trading website for Ghost Empire
-<!doctype html>
+<!doctype html>ghost-empire/
+ ├─ index.html
+ ├─ about.html
+ ├─ rules.html
+ ├─ terms.html
+ ├─ risk.html
+ ├─ styles.css
+ └─ script.js
 <html lang="en">
 <head>
   <meta charset="utf-8">
