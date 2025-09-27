@@ -1,13 +1,14 @@
 # ghost-empire
 Funded trading website for Ghost Empire
-<!doctype html>ghost-empire/
- ├─ index.html
- ├─ about.html
- ├─ rules.html
- ├─ terms.html
- ├─ risk.html
- ├─ styles.css
- └─ script.js
+<nav class="nav">
+  <a href="about.html">About</a>
+  <a href="rules.html">Rules</a>
+  <a href="pricing">Pricing</a>
+  <a href="faq">FAQ</a>
+  <a href="terms.html">Terms</a>
+  <a href="risk.html">Risk</a>
+  <button id="cta-join" class="btn btn-primary">Start Trial</button>
+</nav>
 <html lang="en">
 <head>
   <meta charset="utf-8">
